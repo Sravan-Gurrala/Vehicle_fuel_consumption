@@ -103,10 +103,4 @@ heroku open
 - Improve feature engineering and hyperparameter tuning for better prediction accuracy.
 - Create a REST API for easier integration with other platforms.
 
-## **License**
-This project is licensed under the MIT License.
 
-## **Contact**
-For any questions, please contact:  
-Sravan Gurrala - sravan11.gurrala@gmail.com  
-GitHub: Sravan-Gurrala(https://github.com/Sravan-Gurrala)
